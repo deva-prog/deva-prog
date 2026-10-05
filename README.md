@@ -83,10 +83,9 @@ class DevaPandit:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deva-prog&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" width="100%" />
+<img src="https://ghchart.rshah.org/58A6FF/deva-prog" alt="contributions" width="100%" />
 
 </div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
