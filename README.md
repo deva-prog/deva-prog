@@ -100,10 +100,18 @@ class DevaPandit:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=deva-prog&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15" />
+<img src="https://img.shields.io/github/stars/deva-prog?style=for-the-badge&logo=github&label=Total%20Stars&color=FFD700&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/deva-prog?style=for-the-badge&logo=github&label=Followers&color=BC8CFF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/search/deva-prog/deva-prog/..?style=for-the-badge&label=&color=0D1117" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Projects-9%2B-1F6FEB?style=for-the-badge&logo=github&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Streak-Active%20%F0%9F%94%A5-FF6B35?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Spam%20Detector-97%25%20Accuracy-2EA043?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20ML-BC8CFF?style=for-the-badge&labelColor=0D1117" />
 
 </div>
-
 ## 💬 Quote of the Moment
 
 <div align="center">
