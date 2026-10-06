@@ -156,7 +156,7 @@ class DevaPandit:
 
 <a href="https://github.com/deva-prog"><img src="https://img.shields.io/badge/GitHub-deva--prog-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/deva-pandit-267358377/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:pdeva8135@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
