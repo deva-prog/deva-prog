@@ -138,12 +138,32 @@ class DevaPandit:
 <div align="center">
 
 <a href="https://github.com/deva-prog"><img src="https://img.shields.io/badge/GitHub-deva--prog-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- Neeche apna LinkedIn / Email ka link daalo, phir "<!--" aur "-->" hata do -->
-<!-- <a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-<!-- <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+<a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:BC8CFF&height=120&section=footer" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=BC8CFF&center=true&vCenter=true&width=600&height=40&lines=Open+to+internships+%26+collaborations+%F0%9F%A4%9D;Let's+build+something+awesome+together+%F0%9F%9A%80;Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F" alt="typing" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=220&section=footer&reversal=true&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=28&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" />
+
+</div>
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/deva-prog"><img src="https://img.shields.io/badge/GitHub-deva--prog-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=BC8CFF&center=true&vCenter=true&width=600&height=40&lines=Open+to+internships+%26+collaborations+%F0%9F%A4%9D;Let's+build+something+awesome+together+%F0%9F%9A%80;Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F" alt="typing" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=220&section=footer&reversal=true&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=28&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" />
 
 </div>
