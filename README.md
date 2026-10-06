@@ -156,8 +156,7 @@ class DevaPandit:
 
 <a href="https://github.com/deva-prog"><img src="https://img.shields.io/badge/GitHub-deva--prog-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/deva-pandit-267358377/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pdeva8135@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pdeva8135@gmail.com&su=Hello%20Deva"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=BC8CFF&center=true&vCenter=true&width=600&height=40&lines=Open+to+internships+%26+collaborations+%F0%9F%A4%9D;Let's+build+something+awesome+together+%F0%9F%9A%80;Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F" alt="typing" />
