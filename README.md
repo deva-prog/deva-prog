@@ -163,6 +163,4 @@ class DevaPandit:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=220&section=footer&reversal=true&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=28&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" />
-
 </div>
